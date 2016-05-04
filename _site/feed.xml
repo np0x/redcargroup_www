@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Redcar Group</title>
+    <description>iOS apps and personal training
+</description>
+    <link>http://www.redcargroup.com/</link>
+    <atom:link href="http://www.redcargroup.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 03 May 2016 22:25:55 -0400</pubDate>
+    <lastBuildDate>Tue, 03 May 2016 22:25:55 -0400</lastBuildDate>
+    <generator>Jekyll v3.1.3</generator>
+    
+  </channel>
+</rss>
