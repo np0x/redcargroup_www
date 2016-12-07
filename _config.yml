@@ -5,9 +5,9 @@
 title: Redcar Group
 description: |
  Technical Services focused on Android Development
-owner: Noah Paci # or company name
+owner: Redcar Group # or company name
 first_published: 2016 # if migrating another site, the year of your first publish
-email: noah.paci@gmail.com
+email: inquiry@redcargroup.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.redcargroup.com" # the base hostname & protocol for your site
 social:
